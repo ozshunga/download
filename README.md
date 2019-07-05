@@ -1,5 +1,8 @@
 ## Welcome to XanSoft
 
-You can use the [editor on GitHub](https://github.com/ozshunga/download/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you for purchasing our products and services.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Click here to download the software for auto shutdown device.
+
+Thankyou
+-XanSoft
